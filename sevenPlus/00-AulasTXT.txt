@@ -1,0 +1,24 @@
+# Verificar a versão do NPM
+npm -v
+
+# Verificar a versão do nodeJs
+node -v
+
+# Atualizar o npm
+npm install -g npm@10.8.1
+
+# Instalando o projeto em react
+npx create-react-app MEU_PROJETO (seven-plus)
+
+# Acessar o diretório
+cd diretorio
+
+# Iniciando o servidor nodeJs
+npm start
+
+# Backup dos arquivos sem a necessidade do "node_modules"
+# Instalando as dependências do "node_modules"
+npm install
+
+# Criar as rotas para navegar entre as páginas
+npm install react-router-dom
